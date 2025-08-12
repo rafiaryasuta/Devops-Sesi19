@@ -1,0 +1,23 @@
+{
+  "name": "devops-sesi19",
+  "version": "1.0.0",
+  "description": "Tugas Devops Sesi 19",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafiaryasuta/Devops-Sesi19.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafiaryasuta/Devops-Sesi19/issues"
+  },
+  "homepage": "https://github.com/rafiaryasuta/Devops-Sesi19#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
