@@ -25,5 +25,6 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: |
-            ${{ secrets.DOCKERHUB_USERNAME }}/simple-node-docker:latest
-            ${{ secrets.DOCKERHUB_USERNAME }}/simple-node-docker:${{ github.sha }}
+            ${{ secrets.DOCKERHUB_USERNAME }}/devops-sesi19-dh:latest
+            ${{ secrets.DOCKERHUB_USERNAME }}/devops-sesi19-dh:${{ github.sha }}
+
